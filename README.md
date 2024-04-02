@@ -10,6 +10,8 @@ curl --request POST \
 
 Then create the SLA and provide a service tag, this service tag will be used in creating the service
 
+![SLA report](https://github.com/jsofari/bulk-create-service-zabbix/assets/42039646/641f55d5-b692-44d2-a619-3854865804c4)
+
 
 https://www.zabbix.com/documentation/current/en/manual/api
 https://www.zabbix.com/documentation/current/en/manual/api/reference/sla
