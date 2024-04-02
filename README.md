@@ -9,3 +9,7 @@ curl --request POST \
   --data '{"jsonrpc":"2.0","method":"user.login","params":{"username":"Admin","password":"zabbix"},"id":1}'
 
 Then create the SLA and provide a service tag, this service tag will be used in creating the service
+
+
+https://www.zabbix.com/documentation/current/en/manual/api
+https://www.zabbix.com/documentation/current/en/manual/api/reference/sla
