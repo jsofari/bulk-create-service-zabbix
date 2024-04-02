@@ -13,3 +13,4 @@ Then create the SLA and provide a service tag, this service tag will be used in 
 
 https://www.zabbix.com/documentation/current/en/manual/api
 https://www.zabbix.com/documentation/current/en/manual/api/reference/sla
+Thanks To CHATGPT
